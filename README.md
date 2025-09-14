@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzWSDSS/giphy.gif" alt="Waving hand" width="80"/>
+  <img src="https://media.giphy.com/media/3o7bufgIytzKjD42fK/giphy.gif" alt="Subtle sparkle" width="100"/>
 </p>
 <h1 align="center">Hi there! I'm Souparna Paul 👋</h1>
 <h3 align="center">An AI & Full-Stack Developer | Innovating at the Intersection of AI, Data, and Web Experiences.</h3>
