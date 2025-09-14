@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://giphy.com/gifs/after-effects-code-trapcode-8YBpKSm3uPWG9Ca0F4" alt="Coding animation" width="100"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDduMzdmcXh5cWY2emV2bXVnbG84bzh2aTk3NjVlODVzcTR4Ym9qYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8YBpKSm3uPWG9Ca0F4/giphy.gif" alt="Coding animation" width="100"/>
 </p>
 <h1 align="center">Hi there! I'm Souparna Paul 👋</h1>
 <h3 align="center">An AI & Full-Stack Developer | Innovating at the Intersection of AI, Data, and Web Experiences.</h3>
