@@ -152,42 +152,23 @@ Here are some of my proudest creations that demonstrate my skills and passion fo
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats:
 A snapshot of my GitHub activity and contributions.
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=sOuL2000s&show_icons=true&theme=radical&count_private=true"
-    alt="Souparno's GitHub Stats"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=sOuL2000s&show_icons=true&theme=radical&hide_border=false&count_private=true&line_height=25" alt="Souparna's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sOuL2000s&theme=radical&hide_border=false" alt="Souparna's GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sOuL2000s&layout=compact&theme=radical&hide_border=false&langs_count=8" alt="Souparna's Top Languages" />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=sOuL2000s&theme=radical"
-    alt="Souparno's GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sOuL2000s&layout=compact&theme=radical&langs_count=8"
-    alt="Souparno's Top Languages"
-  />
-</p>
-
----
-
-### 🏆 GitHub Trophies
+### 🏆 GitHub Trophies:
 Recognition for my journey and contributions on GitHub.
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=sOuL2000s&theme=radical&margin-w=8"
-    alt="Souparno's GitHub Trophies"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=sOuL2000s&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Souparna's GitHub Trophies" />
 </p>
-
 
 ### ✍️ Random Dev Quote:
 A little wisdom from the coding world.
