@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzY0ZDJlc3RwdGoxMmVsdjN1dDlwb2x5bmE0b2hwNzk2dDZnbjRwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5GoVLqeAOo6PK/giphy.gif" alt="Coding animation" width="100"/>
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100" alt="Typing code"/>
 </p>
 <h1 align="center">Hi there! I'm Souparna Paul 👋</h1>
 <h3 align="center">An AI & Full-Stack Developer | Innovating at the Intersection of AI, Data, and Web Experiences.</h3>
